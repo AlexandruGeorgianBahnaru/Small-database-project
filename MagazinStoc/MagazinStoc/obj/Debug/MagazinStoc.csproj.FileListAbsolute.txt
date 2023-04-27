@@ -1,0 +1,12 @@
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\bin\Debug\DatabaseDepozit.mdf
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\bin\Debug\DatabaseDepozit_log.ldf
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\bin\Debug\MagazinStoc.exe.config
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\bin\Debug\MagazinStoc.exe
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\bin\Debug\MagazinStoc.pdb
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.csprojAssemblyReference.cache
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.Form1.resources
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.Properties.Resources.resources
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.csproj.GenerateResource.cache
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.csproj.CoreCompileInputs.cache
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.exe
+C:\Users\Georgel\Desktop\ProiectJob\MagazinStoc\MagazinStoc\obj\Debug\MagazinStoc.pdb
